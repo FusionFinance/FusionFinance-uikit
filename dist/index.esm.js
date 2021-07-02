@@ -2194,7 +2194,7 @@ var socials = [
   {
       label: "Telegram",
       icon: "TelegramIcon",
-      href: "https://t.me/FusionFinance",
+      href: "https://t.me/FusionFinance3",
   },
     {
         label: "Twitter",
